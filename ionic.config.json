@@ -1,0 +1,7 @@
+{
+  "name": "tugas2cuaca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
